@@ -1,0 +1,48 @@
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+header{
+    background-color: #243B53;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #F7F1E8;
+}
+img {padding: 30px;
+    border-radius: 180px;}
+body {
+    background-color: #F7F1E8;
+    color: #243B53;
+
+}
+ul {
+    padding: 50px
+}
+footer {
+    background-color: #243B53;
+    color: #F7F1E8;
+    padding:50px
+}
+.allura-regular {
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.centered {
+    text-align: center;
+}
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+.bordered {
+    border: #247568 solid;
+    background-color: #247568;
+    border-radius: 100px;
+    margin-right: 80%;
+}
+
